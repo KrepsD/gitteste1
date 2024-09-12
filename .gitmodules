@@ -1,0 +1,8 @@
+[submodule "gitteste1"]
+	path = gitteste1
+	url = https://github.com/KrepsD/gitteste1
+	branch = stable
+[submodule "fs_simul"]
+	path = fs_simul
+	url = https://github.com/crmoratelli/fs_simul.git
+	branch = master
